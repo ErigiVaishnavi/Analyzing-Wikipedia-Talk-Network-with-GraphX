@@ -2,9 +2,9 @@
 
 This project focuses on using Apache Spark’s
 GraphX module to identify communities in the Wikipedia Talk
-Network. To identify distinctive communities within this enormous social network dataset, we use the Connected Components
+Network. To identify distinctive communities within this enormous social network dataset, we use the Connected Components
 algorithm. We address scalability issues by utilizing Spark’s
-capabilities for distributed computing. For the purpose of meaningful community discovery, our work entails data preprocessing,
+capabilities for distributed computing. For the purpose of meaningful community discovery, our work entails data preprocessing,
 graph construction, and algorithm execution. We investigate
 optimization techniques that guarantee both performance and
 accuracy. The project’s results improve our comprehension of
