@@ -13,4 +13,4 @@ useful GraphX and Spark are for performing graph-based
 analytics. These revelations have larger applications in anomaly
 detection, recommendation systems, and social network analysis.
 The interconnectedness of participants and their communities is
-revealed, demonstrating the power of distributed graph processing.
+revealed, demonstrating the power of distributed graph processing.
